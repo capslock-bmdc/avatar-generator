@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="165"
+   height="165"
+   viewBox="0 0 43.656249 43.656252"
+   version="1.1"
+   id="svg2027"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="body1.svg"
+   inkscape:export-filename="C:\Users\zvi\Documents\Zvi_Karp\Projects\CAPSLOCK\Projects\Avatar_Generator\avatar-generator\images\body\body1.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2021">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1273"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="30.24536"
+     inkscape:cy="85.795097"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2572"
+       spacingx="2.9104167"
+       spacingy="2.9104167"
+       empspacing="5" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2024">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-253.34374)">
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 14.725982,282.87661 c 0.423173,-3.67495 0.84638,-7.3502 0.712741,-9.63296 -0.133638,-2.28276 -0.824142,-3.17374 -0.979936,-3.88658 -0.155794,-0.71283 0.222857,-1.24739 0.746106,-1.54792 0.523248,-0.30053 1.191803,-0.36738 3.551801,-0.33398 2.359999,0.0334 6.415075,0.16708 10.468668,0.30072 0,0 -0.13364,15.10072 -0.13364,15.10072 0,0 -14.36574,0 -14.36574,0 z"
+       id="path1271"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect1273"
+       inkscape:original-d="m 14.725982,282.87661 c 0,0 0.84661,-7.35017 1.26952,-11.02486 -0.69011,-0.8911 -1.38062,-1.78207 -2.07134,-2.6727 0.37888,-0.53478 0.75753,-1.06934 1.13591,-1.60362 0.66805,-0.067 1.3366,-0.1339 2.00451,-0.20045 4.05212,0.13331 12.16078,0.40091 12.16078,0.40091 0,0 -0.13364,15.10072 -0.13364,15.10072 0,0 -14.36574,0 -14.36574,0 z" />
+  </g>
+</svg>
