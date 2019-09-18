@@ -4,7 +4,7 @@ import os
 
 def generate(antennas_category=""):
     
-    images_path = 'images/png/'
+    images_path = os.getcwd() + 'images/png/'
     background_path = images_path + 'background/'
     body_path = images_path + 'body/'
     antennas_path = images_path + 'antennas/'
