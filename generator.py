@@ -3,13 +3,13 @@ import random
 import os
 
 def generate(antennas_category=""):
-    
-    images_path = os.getcwd() + 'images/png/'
+    path = os.path.dirname(os.path.abspath(__file__))
+    images_path = path + '/images/png/'
     background_path = images_path + 'background/'
     body_path = images_path + 'body/'
     antennas_path = images_path + 'antennas/'
 
-    avatar = Image.open(background_path + '/background.png')
+    avatar = Image.open(background_path + 'background.png')
 
     for dir in os.listdir(body_path):
         max_number = len(os.listdir(body_path+dir))
