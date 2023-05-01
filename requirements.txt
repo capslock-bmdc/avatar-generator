@@ -2,7 +2,7 @@
 # https://github.com/damnever/pigar
 
 # app.py: 3
-Flask == 1.1.1
+Flask == 2.3.2
 
 # app.py: 4
 Flask_Cors == 3.0.9
